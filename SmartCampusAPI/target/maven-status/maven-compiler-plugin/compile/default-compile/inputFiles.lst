@@ -1,0 +1,17 @@
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\resources\SensorResource.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\JakartaRestConfiguration.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\RoomNotEmptyException.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\resources\DiscoveryResource.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\LinkedResourceNotFoundMapper.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\SensorUnavailableException.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\resources\SmartCampusLoggingFilter.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\LinkedResourceNotFoundException.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\resources\RoomResource.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\repository\DataStore.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\resources\SensorReadingResource.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\model\Sensor.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\GlobalExceptionMapper.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\SensorUnavailableMapper.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\exceptions\RoomNotEmptyMapper.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\model\Room.java
+C:\Users\AAA\OneDrive\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\mycompany\smartcampusapi\model\SensorReading.java
